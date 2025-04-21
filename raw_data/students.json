@@ -1,0 +1,92 @@
+[
+    {
+        "id": 46200,
+        "name": "Noor Alameri",
+        "created_at": "2020-06-30T14:48:27+01:00",
+        "sortable_name": "Alameri, Noor",
+        "short_name": "Noor Alameri",
+        "sis_user_id": "3658181",
+        "integration_id": null
+    },
+    {
+        "id": 46159,
+        "name": "Alessandro Angeletti Martinez-Falero",
+        "created_at": "2020-06-29T14:27:47+01:00",
+        "sortable_name": "Angeletti Martinez-Falero, Alessandro",
+        "short_name": "Alessandro Angeletti Martinez-Falero",
+        "sis_user_id": "3671545",
+        "integration_id": null
+    },
+    {
+        "id": 42947,
+        "name": "Brigita Angkasa",
+        "created_at": "2020-02-21T10:06:31+00:00",
+        "sortable_name": "Angkasa, Brigita",
+        "short_name": "Brigita Angkasa",
+        "sis_user_id": "3533323",
+        "integration_id": null
+    },
+    {
+        "id": 46155,
+        "name": "Martino Armanini",
+        "created_at": "2020-06-29T14:27:44+01:00",
+        "sortable_name": "Armanini, Martino",
+        "short_name": "Martino Armanini",
+        "sis_user_id": "3640060",
+        "integration_id": null
+    },
+    {
+        "id": 36343,
+        "name": "Keshav Asokan",
+        "created_at": "2019-05-30T12:15:27+01:00",
+        "sortable_name": "Asokan, Keshav",
+        "short_name": "Keshav Asokan",
+        "sis_user_id": "3189595",
+        "integration_id": null
+    },
+    {
+        "id": 46737,
+        "name": "Oliver Ayton",
+        "created_at": "2020-07-28T18:28:25+01:00",
+        "sortable_name": "Ayton, Oliver",
+        "short_name": "Oliver Ayton",
+        "sis_user_id": "3685300",
+        "integration_id": null
+    },
+    {
+        "id": 42775,
+        "name": "Selin Beijersbergen",
+        "created_at": "2020-02-21T10:04:45+00:00",
+        "sortable_name": "Beijersbergen, Selin",
+        "short_name": "Selin Beijersbergen",
+        "sis_user_id": "3284304",
+        "integration_id": null
+    },
+    {
+        "id": 46151,
+        "name": "Othman Bensouda Koraichi",
+        "created_at": "2020-06-29T14:27:29+01:00",
+        "sortable_name": "Bensouda Koraichi, Othman",
+        "short_name": "Othman Bensouda Koraichi",
+        "sis_user_id": "3313362",
+        "integration_id": null
+    },
+    {
+        "id": 45070,
+        "name": "Abhinav Bhardwaj",
+        "created_at": "2020-05-27T15:34:02+01:00",
+        "sortable_name": "Bhardwaj, Abhinav",
+        "short_name": "Abhinav Bhardwaj",
+        "sis_user_id": "3445347",
+        "integration_id": null
+    },
+    {
+        "id": 46160,
+        "name": "Etra Bianco",
+        "created_at": "2020-06-29T14:27:53+01:00",
+        "sortable_name": "Bianco, Etra",
+        "short_name": "Etra Bianco",
+        "sis_user_id": "3650408",
+        "integration_id": null
+    }
+]
